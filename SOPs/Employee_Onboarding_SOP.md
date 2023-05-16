@@ -47,7 +47,7 @@ Version 1.0
 
    3. Createa user profile following the proper naming convention under definitions.
 
-   4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Windows%2010%20Endpoint%20Security%20SOP)
+   4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Windows_10_Endpoint_Security_SOP.md)
 
    5. Allow RDP access for Admin only and verify functionality.
 

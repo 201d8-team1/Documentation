@@ -1,4 +1,4 @@
-Standard Operating Procedure (SOP)
+Support Engagement Standard Operating Procedure (SOP)
 
 Version 1.0
 
@@ -23,7 +23,7 @@ Effective Date: 05/15/2023
 
 3. Definitions and Abbreviations:
 
-   N/A
+   Data: Any and all things stored in the computer.
 4. Procedure:
    
    Technicians are expected to follow the CompTIA troubleshooting methodology.
@@ -48,9 +48,6 @@ Effective Date: 05/15/2023
    Under the assumption that the system might be infected with malware, run a virus scan before and after procedures with Windows Defender and Malwarebytes.
 
    Make note of any password changes or user settings changes throughout the procedure.
-
-
-
 
 6. Troubleshooting and Problem Solving:
    

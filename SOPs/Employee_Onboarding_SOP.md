@@ -25,9 +25,11 @@ Version 1.0
 ### 4. Procedure:
 
    A. Computer Setup
+
       1. Install Windows 10 to new Computer.
 
          a. Use BluewaveTech_HarvestHaven_Win10.iso for install.
+
             1. ISO Has the following pre-installed:
 
                a. Google Chrome
@@ -42,18 +44,31 @@ Version 1.0
 
                f. Thunderbird email client
       2. Create an Admin profile.
+
       3. Createa user profile following the proper naming convention under definitions.
+
       4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](C:\Users\User\Desktop\CodeFellows Projects\Project_1\Documentation\SOPs\Windows 10 Endpoint Security SOP)
+
       5. Allow RDP access for Admin only and verify functionality.
+
       6. Enable file and printer sharing.
+
    B. Email Setup
+
       1. Ensure Thunderbird is installed and has a desktop shortcut.
+
       2. Obtain email account information from HR.
+
       3. Enter account credentials in Thunderbird.
+
       4. Set and apply to all messages a custom signature to the profile using the format listed under defenitions.
+
       5. Test email functionality.
+
    C. File Backup
+
       1. Use account credentials to connect Microsoft One Drive account.
+
       2. copy file [backup.bat](https://github.com/201d8-team1/Scripts/blob/main/backup.bat) to user profile.
          
          a. Change the paths in the file to match the directory paths in the user account.
@@ -63,6 +78,7 @@ Version 1.0
 ### 5. Troubleshooting and Problem Solving:
 
    A. backup.bat file does not backup to one drive.
+   
       1. Verify all file paths are correct for the new account.
 
          a. This includes the copy from path, copy to path and log file path.

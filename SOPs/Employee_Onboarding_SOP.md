@@ -1,19 +1,19 @@
-Standard Operating Procedure (SOP)
+## Standard Operating Procedure (SOP)
 
-Version X1.0
+Version 1.0
 
-Effective Date: 5/16/2023
+## Effective Date: 5/16/2023
 
-1. Purpose:
+### 1. Purpose:
 
    The purpose of this SOP is to outline the necessary guidelines required for setting up a new computer with an email account, Microsoft One Drive acount and automatic backup script file to provide an efficent onboarding process.
 
-2. Responsibilities:
+### 2. Responsibilities:
 
    The IT department will be responsible for installing the Windows 10 OS, configuring email acounts, connecting Microsoft One Drive and implementing automatic file backups.
    HR will provide necessary account information to IT for email and Microsoft One Drive configuration.
 
-3. Definitions and Abbreviations:
+### 3. Definitions and Abbreviations:
 
    A. User profile naming convention: firstinitial.lastname
    B. Email Signature format:
@@ -22,7 +22,7 @@ Effective Date: 5/16/2023
       Title
       Department
 
-4. Procedure:
+### 4. Procedure:
 
    A. Computer Setup
       1. Install Windows 10 to new Computer.
@@ -43,7 +43,7 @@ Effective Date: 5/16/2023
                f. Thunderbird email client
       2. Create an Admin profile.
       3. Createa user profile following the proper naming convention under definitions.
-      4. Configure Windows 10 endpoint security as outlined in Windows 10 Endpoing Security SOP
+      4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](C:\Users\User\Desktop\CodeFellows Projects\Project_1\Documentation\SOPs\Windows 10 Endpoint Security SOP)
       5. Allow RDP access for Admin only and verify functionality.
       6. Enable file and printer sharing.
    B. Email Setup
@@ -60,17 +60,17 @@ Effective Date: 5/16/2023
 
          b. add a test file to the home documents folder, run the .bat file and confirm the test file is backed up to one drive.
 
-5. Troubleshooting and Problem Solving:
+### 5. Troubleshooting and Problem Solving:
 
    A. backup.bat file does not backup to one drive.
       1. Verify all file paths are correct for the new account.
 
          a. This includes the copy from path, copy to path and log file path.
 
-6. Revision History:
+### 6. Revision History:
 
    Version 1.0: Initial SOP Created
 
-7. Approval:
+### 7. Approval:
 
    David Prutch

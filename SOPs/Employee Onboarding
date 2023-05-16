@@ -52,7 +52,7 @@ Effective Date: 5/16/2023
       5. Test email functionality.
    C. File Backup
       1. Use account credentials to connect Microsoft One Drive account.
-      2. copy file [backup.bat](Project_1\Scripts\backup.bat) to user profile.
+      2. copy file [backup.bat](https://github.com/201d8-team1/Scripts/blob/main/backup.bat) to user profile.
          
          a. Change the paths in the file to match the directory paths in the user account.
 

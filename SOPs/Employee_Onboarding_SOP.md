@@ -45,6 +45,7 @@ Effective Date: 5/16/2023
       3. Createa user profile following the proper naming convention under definitions.
       4. Configure Windows 10 endpoint security as outlined in Windows 10 Endpoing Security SOP
       5. Allow RDP access for Admin only and verify functionality.
+      6. Enable file and printer sharing.
    B. Email Setup
       1. Ensure Thunderbird is installed and has a desktop shortcut.
       2. Obtain email account information from HR.

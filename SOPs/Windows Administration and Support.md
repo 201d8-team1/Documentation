@@ -18,7 +18,7 @@ Version 1.1
    
 ### 3. Definitions and Abbreviations:
 
-   A. Windows: Computer operating system developed by microsoft
+  A. Windows: Computer operating system developed by microsoft
    
 ### 4. Procedure:
 

@@ -60,11 +60,11 @@ Effective Date: 5/16/2023
    
 8. Revision History:
 
-Gerald 5/16/2023 1.0: Inital version/outline.
+   Gerald 5/16/2023 1.0: Inital version/outline.
 
-Gerald, Jason, David 05/07.2023 1.1: Revisions.
+   Gerald, Jason, David 05/07.2023 1.1: Revisions.
 
 9. Approval:
 
-Gerald Reitmeyer, Jason Jung, David Prutch.
+   Gerald Reitmeyer, Jason Jung, David Prutch.
   

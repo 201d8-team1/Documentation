@@ -46,15 +46,16 @@ Version 1.1
    
 ### 7. References:
 
-   A. https://dban.org/help-center/#:~:text=The%20most%20frequent%20reason%20for,when%20you%20ask%20for%20help (DBAN Troubleshooting Documentation)
+   A. [DBAN Troubleshooting Docuemnts](https://dban.org/help-center/#:~:text=The%20most%20frequent%20reason%20for,when%20you%20ask%20for%20help)
 
-   B. https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148 (How To Use DBAN).
+   B. [How To Use DBAN](https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148)
    
-   C. https://dban.org/ (DBAN Download)
+   C. [DBAN Download](https://dban.org/)
    
 ### 8. Revision History:
 
    Jason 05/17/2023 1.0: Initial Version.
+   
    Jason, Gerald, David 05/17/2023 1.1: Revisions.
    
 ### 9. Approval:

@@ -54,7 +54,7 @@ Version 1.1
    
 ### 7. References:
  
-   A. https://lightsail.aws.amazon.com/ls/docs/en_us/how-to (AWS Troubleshooting Documentation)
+   A.  [AWS Troubleshooting Documentation](https://lightsail.aws.amazon.com/ls/docs/en_us/how-to)
 
 ### 8. Revision History:
 

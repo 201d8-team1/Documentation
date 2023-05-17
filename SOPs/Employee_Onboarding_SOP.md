@@ -12,7 +12,7 @@ Version 1.0
 
    A. The MSP is responsible for installing the Windows 10 OS, configuring email acounts, connecting Microsoft One Drive and implementing automatic file backups.
    
-   B. HR will provide necessary account information to MSP for email and Microsoft One Drive configuration.
+   B. Client HR will provide necessary account information to MSP for email and Microsoft One Drive configuration.
    
    C. MSP will provide new employee with account access information.
 
@@ -21,12 +21,14 @@ Version 1.0
    A. User profile naming convention: firstinitial.lastname
    
    B. Email Signature format:
+   
       Harvest Haven
+      
       Name
+     
       Title
+      
       Department
-      
-      
 
 ### 4. Procedure:
 
@@ -50,21 +52,23 @@ Version 1.0
 
             f. Thunderbird email client
             
-   2. Create an Admin profile.
+            g. Admin RDP access enabled for LAN
+            
+            h. PowerShellRemote enabled for LAN
 
-   3. Createa user profile following the proper naming convention under definitions.
+   2. Create an user profile following the proper naming convention under definitions.
 
-   4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Windows_10_Endpoint_Security_SOP.md)
+   3. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Windows_10_Endpoint_Security_SOP.md)
 
-   5. Verify RDP access for Admin only and verify functionality.
+   4. Verify RDP access for Admin only and verify functionality.
 
-   6. Enable file and printer sharing.
+   5. Verify PSRemote capabilities.
 
    B. Email Setup
 
    1. Ensure Thunderbird is installed and has a desktop shortcut.
 
-   2. Obtain email account information from HR.
+   2. Obtain email account information from client HR.
 
    3. Enter account credentials in Thunderbird.
 

@@ -67,8 +67,7 @@ E. Enable Reputation Based Protection to protect device from potentially malicio
 
 ### 5. References:
 
-   1. Microsoft Support: Reputation Based Protection 
-   https://support.microsoft.com/en-us/microsoft-edge/how-can-smartscreen-help-protect-me-in-microsoft-edge-1c9a874a-6826-be5e-45b1-67fa445a74c8
+   1. [Microsoft Support: Reputation Based Protection](https://support.microsoft.com/en-us/microsoft-edge/how-can-smartscreen-help-protect-me-in-microsoft-edge-1c9a874a-6826-be5e-45b1-67fa445a74c8)
 
 ### 6. Revision History:
 

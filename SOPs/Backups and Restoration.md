@@ -1,6 +1,6 @@
 Backups & Restoration Standard Operating Procedure (SOP)
 
-Version 1.0
+Version 1.1
 
 Effective Date: 5/16/2023
 

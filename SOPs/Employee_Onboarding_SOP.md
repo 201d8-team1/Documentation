@@ -85,7 +85,7 @@ Version 1.0
 
 ### 6. Revision History:
 
-   Version 1.0: Initial SOP Created
+   Version 1.0: Initial SOP Created by David Prutch
 
 ### 7. Approval:
 

@@ -1,4 +1,4 @@
-## Standard Operating Procedure (SOP)
+## Windows 10 Endpoint Security Standard Operating Procedure (SOP)
 
 Version 1.0
 

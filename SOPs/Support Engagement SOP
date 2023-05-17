@@ -26,37 +26,28 @@ Effective Date: 05/15/2023
    Data: Any and all things stored in the computer.
 4. Procedure:
    
-   Technicians are expected to follow the CompTIA troubleshooting methodology.
+   Technicians are expected to show courtersey and respect towards clients.
 
-   a. Identify the problem.
+   After receiving a ticket, acknowledge as soon as possible with a response.
 
-   b. Establish a theory of probable cause.
+   Ensure the issue is properly resolved.
 
-   c. Test the theory to determine the cause.
-
-   d. Establish a plan of action and implement the solution.
-
-   e. Verify full system functionality and implement preventative measures.
-
-   f. Document findings. 
+   Document the support interactions within the Spiceworks system.
 
 5. Safety Considerations:
-
    
-   Back up any data that may be lost in the process of troubleshooting. This includes system restore points, snapshots, or registry backups.
+   Do not disclose any client-sensitive information to unverified users.
 
-   Under the assumption that the system might be infected with malware, run a virus scan before and after procedures with Windows Defender and Malwarebytes.
 
-   Make note of any password changes or user settings changes throughout the procedure.
 
 6. Troubleshooting and Problem Solving:
    
    If the issue cannot be resolved in a timely manner, escalate the ticket to a higher level.
 
-   Be open to any possible scenarios - the biggest problems can be solved with a simple answer.
+   If the client is unsatisfied for any reason, let a manager know.
+
+   In the case of a disruptive or uncooperative client, escalate the ticket.
 7. References:
-   
-   https://www.comptia.org/blog/troubleshooting-methodology
 
    https://community.spiceworks.com/support/help-desk-cloud-edition/
 8. Revision History:

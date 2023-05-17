@@ -1,14 +1,14 @@
-Backups & Restoration Standard Operating Procedure (SOP)
+## Backups & Restoration Standard Operating Procedure (SOP)
 
 Version 1.1
 
-Effective Date: 5/16/2023
+## Effective Date: 5/16/2023
 
-1. Purpose:
+### 1. Purpose:
 
    A. Procedure on how to backup and restore user data, critical infrastructure configurations and hosted data.
 
-2. Responsibilities:
+### 2. Responsibilities:
 
    A. Backup all data (user, infrastructure, and configurations) to an cloud backup.
    
@@ -18,7 +18,7 @@ Effective Date: 5/16/2023
    
    D. Double check that no files were skipped over.
    
-3. Definitions and Abbreviations:
+### 3. Definitions and Abbreviations:
 
    A. Backup: Making a copy of data.
    
@@ -26,7 +26,7 @@ Effective Date: 5/16/2023
    
    C. Robocopy: Terminal command that automatically copies files from a defined location to another defined location.
    
-4. Procedure:
+### 4. Procedure:
 
    A. Ensure all new and updated files are saved in the user's Documents folder for backup.
    
@@ -36,13 +36,13 @@ Effective Date: 5/16/2023
    
    D. Check the log outputs to verify backup has completed without error and that the backup is up to date.
    
-5. Safety Considerations:
+### 5. Safety Considerations:
    
    A. Make sure the computer is not in use by anyone when backing up.
    
    B. If backing up system configurations also make a system restore point.
    
-6. Troubleshooting and Problem Solving:.
+### 6. Troubleshooting and Problem Solving:.
 
    A. Robocopy does not backup files or store log in One Drive.
    
@@ -50,7 +50,7 @@ Effective Date: 5/16/2023
    
    C. Ensure that robocopy is scheduled to run at midnight in task scheduler.
    
-7. References:
+### 7. References:
 
    A. https://planetmagpie.com/news/woof-newsletter/2020/03/11/how-to-verify-that-your-backups-actually-work (How To Verify Backup)
    
@@ -58,13 +58,13 @@ Effective Date: 5/16/2023
    
    C. https://learn.microsoft.com/en-us/compliance/assurance/assurance-monitoring-and-self-healing (Assurance Monitoring And Self Healing)
    
-8. Revision History:
+### 8. Revision History:
 
    Gerald 5/16/2023 1.0: Inital version/outline.
 
    Gerald, Jason, David 05/07.2023 1.1: Revisions.
 
-9. Approval:
+### 9. Approval:
 
    Gerald Reitmeyer, Jason Jung, David Prutch.
   

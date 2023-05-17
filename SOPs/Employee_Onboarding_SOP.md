@@ -1,4 +1,4 @@
-## Standard Operating Procedure (SOP)
+## Employee Onboarding Standard Operating Procedure (SOP)
 
 Version 1.0
 

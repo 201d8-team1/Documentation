@@ -1,6 +1,6 @@
 ## Troubleshooting Methodology Standard Operating Procedure (SOP)
 
-Version 1.0
+Version 1.1
 
 ## Effective Date: 05/17/2023
 
@@ -14,8 +14,8 @@ Version 1.0
 
 ### 3. Definitions and Abbreviations:
 
-   
-   
+   N/A
+
 ### 4. Procedure:
 
    A. Technicians are expected to follow the CompTIA troubleshooting methodology.
@@ -46,12 +46,14 @@ Version 1.0
    
 ### 7. References:
 
-   A. https://www.comptia.org/blog/troubleshooting-methodology
+   A. [CompTIA trobleshooting methodology](https://www.comptia.org/blog/troubleshooting-methodology)
      
 ### 8. Revision History:
 
-   Version 1.0: Initial SOP Write Up 05/17/2023
+   Jason 05/15/2023 Version 1.0: Initial SOP
+   
+   Jason, David, Gerald 05/17/2023 Version 1.1: Revisions
    
 ### 9. Approval:
 
-   Jason Jung 05/17/2023
+   Jason Jung, David Prutch, Gerald Reitmeyer 05/17/2023

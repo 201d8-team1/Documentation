@@ -1,60 +1,68 @@
-Cloud Service Support Standard Operating Procedure (SOP)
+## Cloud Service Support Standard Operating Procedure (SOP)
 
-Version 1.0
+Version 1.1
 
-Effective Date: 5/16/2023
+## Effective Date: 5/16/2023
 
-1. Purpose:
+### 1. Purpose:
 
    A. Procedure for AWS support services.
 
-2. Responsibilities:
+### 2. Responsibilities:
 
    A. Monitor Cloud based services.
    
-   B. Maintain and backup (snapshots or equivalent).
+   B. Maintenance and backup of AWS server.
    
-3. Definitions and Abbreviations:
+### 3. Definitions and Abbreviations:
 
-   A. Cloud: Services based on the internet.
+   A. Cloud: Internet based services. (Infrastructure as a Service)
    
-   B. Backup: Copying files and data to a different location (usually one on a different drive/ on the cloud).
+   B. Backup: Copy of data stored in different location.
    
    C. Data: Files and settings.
    
-4. Procedure:
+### 4. Procedure:
 
    A. Review any Spicework tickets for any potential issues.
    
-   B. In case there is a problem define the solution as clear as possible and make a plan on how to deal with said problem to minimize any downtime.
+   B. In case of an issue, define the solution as clear as possible and make a plan on how to deal with said problem to minimize any downtime.
    
-   C. Schedule a downtime and give as specific details regarding time as possible.
+   C. Schedule a downtime and give specific details on maintenance downtime.
    
-   D. Make sure that before any changes are made the service is stopped.
+   D. Make sure service is stopped prior to making changes.
    
-   E. Peform plan to deal with issue
+   E. Implement solution. 
    
-   F. If taking longer than expected make sure to notify users of expected time of when the service is available
+   F. Notify users of delays.
    
-   G. Remember to start the service again after issues are resolved
+   G. Restart service and verify full functionality.
    
-5. Safety Considerations:
+   H. Document the troubleshooting process and outcomes.
+   
+### 5. Safety Considerations:
 
-   A. Ensure the cloud services are down when performing tasks such as maintenace or backups
+   A. Ensure the cloud services are down when performing tasks such as maintenace or backups.
    
-   B. Notify users of expected downtimes
+   B. Notify users of expected downtimes.
+   
+   C. Be aware of AWS maintenance downtime.
 
-6. Troubleshooting and Problem Solving:
+### 6. Troubleshooting and Problem Solving:
+ 
+   A. For issues regarding AWS server, refer to AWS documentation.
+   
+### 7. References:
+ 
+   A. https://lightsail.aws.amazon.com/ls/docs/en_us/how-to (AWS Troubleshooting Documentation)
 
-   A. Make sure to refer to cloud service providers maintainence schedules 
-
-7. References:
-
-8. Revision History:
+### 8. Revision History:
 
    Gerald 5/16/2023 1.0: Initial version/draft
+   
+   Gerald, Jason, David 05/17/2023 1.1: Revisions.
 
-9. Approval:
+### 9. Approval:
 
-   Gerald 5/16/2023
+   Gerald Reitmeyer, Jason Jung, David Prutch 05/17/2023
    

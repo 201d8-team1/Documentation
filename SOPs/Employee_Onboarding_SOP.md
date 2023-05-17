@@ -6,29 +6,35 @@ Version 1.0
 
 ### 1. Purpose:
 
-   The purpose of this SOP is to outline the necessary guidelines required for setting up a new computer with an email account, Microsoft One Drive acount and automatic backup script file to provide an efficent onboarding process.
+   A. The purpose of this SOP is to outline the necessary guidelines for setting up a new client Windows 10 machine with an email account, Microsoft One Drive acount and automatic backup script file to provide an efficent onboarding process.
 
 ### 2. Responsibilities:
 
-   The IT department will be responsible for installing the Windows 10 OS, configuring email acounts, connecting Microsoft One Drive and implementing automatic file backups.
-   HR will provide necessary account information to IT for email and Microsoft One Drive configuration.
+   A. The MSP is responsible for installing the Windows 10 OS, configuring email acounts, connecting Microsoft One Drive and implementing automatic file backups.
+   
+   B. HR will provide necessary account information to MSP for email and Microsoft One Drive configuration.
+   
+   C. MSP will provide new employee with account access information.
 
 ### 3. Definitions and Abbreviations:
 
    A. User profile naming convention: firstinitial.lastname
+   
    B. Email Signature format:
       Harvest Haven
       Name
       Title
       Department
+      
+      
 
 ### 4. Procedure:
 
    A. Computer Setup
 
-   1. Install Windows 10 to new Computer.
+   1. Install Windows 10 Pro to new Computer.
 
-      a. Use BluewaveTech_HarvestHaven_Win10.iso for install.
+      a. Use BluewaveTech_HarvestHaven_Win10Pro.iso for install.
 
          1. ISO Has the following pre-installed:
 
@@ -43,13 +49,14 @@ Version 1.0
             e. Winderstat
 
             f. Thunderbird email client
+            
    2. Create an Admin profile.
 
    3. Createa user profile following the proper naming convention under definitions.
 
    4. Configure Windows 10 endpoint security as outlined in [Windows 10 Endpoing Security SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Windows_10_Endpoint_Security_SOP.md)
 
-   5. Allow RDP access for Admin only and verify functionality.
+   5. Verify RDP access for Admin only and verify functionality.
 
    6. Enable file and printer sharing.
 

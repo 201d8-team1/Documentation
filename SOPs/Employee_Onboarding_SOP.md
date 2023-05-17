@@ -1,8 +1,8 @@
 ## Employee Onboarding Standard Operating Procedure (SOP)
 
-Version 1.0
+Version 1.1
 
-## Effective Date: 5/16/2023
+## Effective Date: 5/17/2023
 
 ### 1. Purpose:
 
@@ -80,11 +80,13 @@ Version 1.0
 
    1. Use account credentials to connect Microsoft One Drive account.
 
-   2. copy file [backup.bat](https://github.com/201d8-team1/Scripts/blob/main/backup.bat) to user profile.
+   2. Copy file [backup.bat](https://github.com/201d8-team1/Scripts/blob/main/backup.bat) to user profile.
          
       a. Change the paths in the file to match the directory paths in the user account.
 
-      b. add a test file to the home documents folder, run the .bat file and confirm the test file is backed up to one drive.
+      b. Add a test file to the home documents folder, run the .bat file and confirm the test file is backed up to one drive.
+      
+      c. In Windows task scheduler set task to run backup.bat daily at midnight.
 
 ### 5. Troubleshooting and Problem Solving:
 
@@ -96,8 +98,10 @@ Version 1.0
 
 ### 6. Revision History:
 
-   Version 1.0: Initial SOP Created by David Prutch
+   David 05/16/2023 Version 1.0: Initial SOP Created 
+   
+   David, Jason, Gerald 05/17/2023 Version 1.1: Revisions
 
 ### 7. Approval:
 
-   David Prutch
+   David Prutch, Gerald Reitmeyer, Jason Jung

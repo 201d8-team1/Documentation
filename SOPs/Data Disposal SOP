@@ -6,29 +6,44 @@ Effective Date: 05/15/2023
 
 1. Purpose:
 
-   This SOP provides instructions on how to safely delete data. 
+   This SOP provides instructions on proper data disposal procedures. 
 
 2. Responsibilities:
+   
+   Properly sanitize end-of-life harddrives.
+   Ensure sensitive data is properly deleted.
 
-   [Clearly define the roles and responsibilities of the personnel involved in executing the procedure.]
 3. Definitions and Abbreviations:
 
-   [List key terms, acronyms, and abbreviations used in the SOP.]
+   Data: Files on the harddrive.
+
+   DBAN: Darik's Book and Nuke.
 4. Procedure:
 
-   [Break down the process into clear, sequential steps. Use numbered lists or bullet points for each step. Include substeps, warnings, or cautions. Consider using diagrams or flowcharts for clarity.]
+   a. A dedicated DBAN USB device should be created. This is to mitigate the risk of downloading a malicious DBAN program onto the USB device.
+
+   b. Insert the USB device.
+
+   c. Reboot the machine and boot from the USB device.
+
+   d. Refer to the article if unsure of correct steps within DBAN. The quick command option on the desired hard drive to be sanitized will suffice in most cases.
+
+   e. Verify the hard drive has been sanitized.
 5. Safety Considerations:
 
-   [Identify any safety precautions or guidelines that need to be followed during the execution of the procedure. Highlight potential hazards and provide instructions on how to mitigate risks.]
+   Only use the DBAN program from verified sources and devices.
+
 6. Troubleshooting and Problem Solving:
 
-   [Address common issues or challenges that may arise during the process. Provide step-by-step instructions or guidance on how to resolve problems effectively.]
+   In the case of an error, refer to DBAN troubleshooting documentation online.
 7. References:
 
-   [Include any supporting documents, manuals, or guidelines that are relevant to the procedure. Provide a list of external references or sources used in creating the SOP.]
+   https://dban.org/help-center/#:~:text=The%20most%20frequent%20reason%20for,when%20you%20ask%20for%20help.
+
+   https://www.lifewire.com/how-to-erase-a-hard-drive-using-dban-2619148
 8. Revision History:
 
-   [Maintain a log of revisions made to the SOP, including version numbers, dates, and a brief description of the changes.]
+   Jason 05/17/2023 1.0: Initial Version.
 9. Approval:
 
-   [Include a section for signatures or approvals from relevant stakeholders or departments.]
+   Jason Jung

@@ -1,20 +1,20 @@
-## Cloud Service Support Standard Operating Procedure (SOP)
+# Cloud Service Support Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2 
 
-## Effective Date: 5/16/2023
+Effective Date: 5/16/2023
 
-### 1. Purpose:
+## 1. Purpose:
 
    A. Procedure for AWS support services.
 
-### 2. Responsibilities:
+## 2. Responsibilities:
 
    A. Monitor Cloud based services.
    
    B. Maintenance and backup of AWS server.
    
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    A. Cloud: Internet based services. (Infrastructure as a Service)
    
@@ -22,7 +22,7 @@ Version 1.1
    
    C. Data: Files and settings.
    
-### 4. Procedure:
+## 4. Procedure:
 
    A. Review any Spicework tickets for any potential issues.
    
@@ -40,7 +40,7 @@ Version 1.1
    
    H. Document the troubleshooting process and outcomes.
    
-### 5. Safety Considerations:
+## 5. Safety Considerations:
 
    A. Ensure the cloud services are down when performing tasks such as maintenace or backups.
    
@@ -48,21 +48,23 @@ Version 1.1
    
    C. Be aware of AWS maintenance downtime.
 
-### 6. Troubleshooting and Problem Solving:
+## 6. Troubleshooting and Problem Solving:
  
    A. For issues regarding AWS server, refer to AWS documentation.
    
-### 7. References:
+## 7. References:
  
    A.  [AWS Troubleshooting Documentation](https://lightsail.aws.amazon.com/ls/docs/en_us/how-to)
 
-### 8. Revision History:
+## 8. Revision History:
 
    Gerald 5/16/2023 1.0: Initial version/draft
    
-   Gerald, Jason, David 05/17/2023 1.1: Revisions.
+   Gerald, Jason, David 5/17/2023 Version 1.1: Revisions.
+   
+   Greald, Jason David, Wayne 5/18/2023 Version 1.2: Revision
 
-### 9. Approval:
+## 9. Approval:
 
-   Gerald Reitmeyer, Jason Jung, David Prutch 05/17/2023
+   Gerald Reitmeyer, Jason Jung, David Prutch, Wayne Brandon
    

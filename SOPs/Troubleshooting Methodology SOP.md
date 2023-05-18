@@ -1,22 +1,22 @@
-## Troubleshooting Methodology Standard Operating Procedure (SOP)
+# Troubleshooting Methodology Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2
 
-## Effective Date: 05/17/2023
+# Effective Date: 05/17/2023
 
-### 1. Purpose:
+## 1. Purpose:
 
    A. This SOP provides the proper procedures in troubleshooting technical issues.
 
-### 2. Responsibilities:
+## 2. Responsibilities:
 
    A. Technicians must follow the steps outlined to troubleshoot technical issues for clients.
 
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    N/A
 
-### 4. Procedure:
+## 4. Procedure:
 
    A. Technicians are expected to follow the CompTIA troubleshooting methodology.
 
@@ -32,28 +32,30 @@ Version 1.1
 
    G. Document findings.
    
-### 5. Safety Considerations:
+## 5. Safety Considerations:
 
    A. Under the assumption that the system might be infected with malware, run a virus scan before and after procedures with Windows Defender and Malwarebytes.
 
    B. Make note of any password changes or user settings changes throughout the procedure.
    
-### 6. Troubleshooting and Problem Solving:
+## 6. Troubleshooting and Problem Solving:
 
    A. Be open to any possible scenarios - the biggest problems can be solved with a simple answer.
 
    B. If stuck on the issue, don't hesistate to escalate the ticket to a higher level.
    
-### 7. References:
+## 7. References:
 
    A. [CompTIA trobleshooting methodology](https://www.comptia.org/blog/troubleshooting-methodology)
      
-### 8. Revision History:
+## 8. Revision History:
 
    Jason 05/15/2023 Version 1.0: Initial SOP
    
-   Jason, David, Gerald 05/17/2023 Version 1.1: Revisions
+   Jason, David, Gerald 5/17/2023 Version 1.1: Revision
    
-### 9. Approval:
+   Jason, David, Gerald, Wayne 5/17/2023 Version 1.2: Revision
+   
+## 9. Approval:
 
-   Jason Jung, David Prutch, Gerald Reitmeyer 05/17/2023
+   Jason Jung, David Prutch, Gerald Reitmeyer, Wayne Brandon

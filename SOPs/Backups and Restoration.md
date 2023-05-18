@@ -1,6 +1,6 @@
 ## Backups & Restoration Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2
 
 ## Effective Date: 5/16/2023
 
@@ -42,7 +42,7 @@ Version 1.1
    
    B. If backing up system configurations also make a system restore point.
    
-### 6. Troubleshooting and Problem Solving:.
+### 6. Troubleshooting and Problem Solving:
 
    A. Robocopy does not backup files or store log in One Drive.
    
@@ -52,17 +52,19 @@ Version 1.1
    
 ### 7. References:
 
-   A. https://planetmagpie.com/news/woof-newsletter/2020/03/11/how-to-verify-that-your-backups-actually-work (How To Verify Backup)
+   A. [How To Verify Backup](https://planetmagpie.com/news/woof-newsletter/2020/03/11/how-to-verify-that-your-backups-actually-work)
    
-   B. https://learn.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency (One Drive Data Resiliency)
+   B. [One Drive Data Resiliency](https://learn.microsoft.com/en-us/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
    
-   C. https://learn.microsoft.com/en-us/compliance/assurance/assurance-monitoring-and-self-healing (Assurance Monitoring And Self Healing)
+   C. [Assurance Monitoring And Self Healing](https://learn.microsoft.com/en-us/compliance/assurance/assurance-monitoring-and-self-healing)
    
 ### 8. Revision History:
 
    Gerald 5/16/2023 1.0: Inital version/outline.
 
-   Gerald, Jason, David 05/07.2023 1.1: Revisions.
+   Gerald, Jason, David 05/17/2023 1.1: Revisions.
+   
+   David 5/18/2023 1.2 Revisions outlined by Ethan Denny.
 
 ### 9. Approval:
 

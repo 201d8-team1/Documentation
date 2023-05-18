@@ -1,0 +1,61 @@
+## Standard Operating Procedure (SOP)
+
+Version 1.0
+
+## Effective Date: 5/16/2023
+
+### 1. Purpose:
+
+   The purpose of this SOP is to outline the necessary guidelines required to ensure that all employee profile and system access and authorization are removed upond termination
+   of employment.
+
+### 2. Responsibilities:
+
+   Upon notification from management, The IT department shall be responsible for locating and permanently deleting employe data from all systems. including server(s), workstation, cloud storage and any othe systems used by the employee.
+   Change / Disable any passwords associated with the employee's account(s) and disable any user account(s). Remove any physical hardware (laptops,thumb drives, etc.) associated with the employee. Notify any external vendors and suppliers with which the employee had a relationship.
+   Ensure the employee's data is not inadvertantly shared with any other individuals or organizations by archiving the employee's data to a network share for IT access only.
+   
+
+### 3. Procedure:
+
+   A. Computer Hardware after termination
+
+   1. 1. Confirmed all gathered necessary information from Human Resources. This includes the name, position, and termination date of the employee.
+
+      a. Use BluewaveTech_HarvestHaven_Deactivation for removal.
+
+         1.  Confirmed all gathered necessary information from Human Resources:
+
+            a. Name
+
+            b. Employment relevant information such as an employee i.d. #
+
+            c. Position
+
+            d. Termination Date of Employee
+
+### 2. Check all relevant systems and devices for access and authorization.
+   
+            a. Company's network
+            
+            b. Intranet
+            
+            c. email system
+            
+            d. any other company resources the employee had access to
+
+### 3. Revoke any active access and authorization to company systems and devices that the employee had.
+   
+            a. Disable the employee’s account
+            
+            b. Cancel all access rights held by the employee
+
+### 4. Make a note in the employee’s personnel file that their access has been revoked.
+
+### 5. Monitor systems logs and reports for any suspicious activity related to the employee’s account.
+
+### 6. Review any pending requests for access or authorization, and cancel them if necessary.
+
+
+  
+   Wayne Brandon

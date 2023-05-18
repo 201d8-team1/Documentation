@@ -1,4 +1,4 @@
-## Standard Operating Procedure (SOP)
+## Technology Purchase Requests Standard Operating Procedure (SOP)
 
 Version 1.0
 

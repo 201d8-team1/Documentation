@@ -1,24 +1,24 @@
-## Technology Purchase Requests Standard Operating Procedure (SOP)
+# Technology Purchase Requests Standard Operating Procedure (SOP)
 
-Version 1.0
+Version 1.1
 
-## Effective Date:05/17/2023
+# Effective Date:05/17/2023
 
-### 1. Purpose:
+## 1. Purpose:
 
    The purpose of this SOP is to provide the guidelines for client software and hardware purchaseing.
 
-### 2. Responsibilities:
+## 2. Responsibilities:
 
-   Harvest Haven  is responsible for identifying their future needs regarding software and hardware.
+   A. Client is responsible for identifying their future needs regarding software and hardware.
    
-   If requested by client MSP will handle research of requests to identify solution options and present to client.
+   B. If requested by client MSP will handle research of requests to identify solution options and present to client.
 
-   Client is responsible for final product or service selection to be delivered to MSP in writing with Purchase Order.
+   C. Client is responsible for final product or service selection to be delivered to MSP in writing with Purchase Order.
 
-   MSP is rsponsible for aquisition and deployment of new hardware or software.
+   D. MSP is rsponsible for aquisition and deployment of new hardware or software.
 
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    A. Client: Harvest Haven Grocers.
 
@@ -26,11 +26,11 @@ Version 1.0
 
    C. PO: Purchas Order.
 
-### 4. Procedure:
+## 4. Procedure:
 
 A. Receive client request for new hardware or software solution. 
 
-B. If required, research possible solutions to fill their needs.
+B. If required, research possible solutions to fill client needs.
 
    1. Take into account Operating OS and current installed hardware of client systems.
 
@@ -50,18 +50,20 @@ F. Install as needed by specific requirements of item purchased.
 
       a. If situation demands deploy tech to site to install hardware manually.
 
-### 5. Safety Considerations:
+## 5. Safety Considerations:
 
    A. Confirm system components meet minum requirements to support new hardware or software.
 
-### 6. Troubleshooting and Problem Solving:
+## 6. Troubleshooting and Problem Solving:
 
    A. As this is a case by case basis follow organization [Troubleshooting Methodology](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Troubleshooting%20Methodology%20SOP.md)
 
-### 7. Revision History:
+## 7. Revision History:
 
-   David 05/17/2023 Version 1.0: Initial SOP Created 
+   David 5/17/2023 Version 1.0: Initial SOP Created 
+   
+   David, Wayne, Gerald, Jason 5/18/2023 Version 1.1: Revision
 
-### 8. Approval:
+## 8. Approval:
 
-   David Prutch
+   David Prutch, Wayne Brandon, Gerald Reitmeyer, Jason Jung

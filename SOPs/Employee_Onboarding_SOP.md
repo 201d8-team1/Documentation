@@ -1,6 +1,6 @@
 ## Employee Onboarding Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2
 
 ## Effective Date: 5/17/2023
 
@@ -87,6 +87,18 @@ Version 1.1
       b. Add a test file to the home documents folder, run the .bat file and confirm the test file is backed up to one drive.
       
       c. In Windows task scheduler set task to run backup.bat daily at midnight.
+      
+   D. Notify new employee of user account information.
+      
+   1. Draft welcome email consisting of the following:
+   
+      a. PC user account credentials.
+      
+      b. Microsoft 365 credentials. 
+      
+      c. cc Harvest Haven HR in email for verification of completion.
+      
+      d. Bluewave Tech Solutions support contact information.
 
 ### 5. Troubleshooting and Problem Solving:
 
@@ -101,6 +113,8 @@ Version 1.1
    David 05/16/2023 Version 1.0: Initial SOP Created 
    
    David, Jason, Gerald 05/17/2023 Version 1.1: Revisions
+   
+   David 05/17/2023 Version 1.2: Provide credentials to new hire.
 
 ### 7. Approval:
 

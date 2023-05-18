@@ -1,14 +1,14 @@
-## Support Engagement Standard Operating Procedure (SOP)
+# Support Engagement Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2
 
-## Effective Date: 05/17/2023
+# Effective Date: 05/17/2023
 
-### 1. Purpose:
+## 1. Purpose:
    
    A. To outline the proper procedures for handling Spiceworks tickets.
    
-### 2. Responsibilities:
+## 2. Responsibilities:
 
    A. Be courteous and respectful. Remember you're helping your client solve their problem.
    
@@ -20,13 +20,13 @@ Version 1.1
 
    E. Make sure all issues are resolved before closing the ticket.
 
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    A. Data: Any and all things stored in the computer.
    
    B. Spiceworks: Cloud-hosted tech support ticket system.
    
-### 4. Procedure:
+## 4. Procedure:
    
    A. Technicians are expected to show courtersey and respect towards clients.
 
@@ -40,11 +40,11 @@ Version 1.1
    
    F. Notify client of resolution.
 
-### 5. Safety Considerations:
+## 5. Safety Considerations:
    
    A. Do not disclose any client-sensitive information.
 
-### 6. Troubleshooting and Problem Solving:
+## 6. Troubleshooting and Problem Solving:
    
    A. If the issue cannot be resolved in a timely manner, escalate the ticket to a higher level.
 
@@ -52,18 +52,20 @@ Version 1.1
 
    C. In the case of a disruptive or uncooperative client, escalate the ticket.
    
-### 7. References:
+## 7. References:
 
    A. [Spiceworks Documentation](https://community.spiceworks.com/support/help-desk-cloud-edition/)
    
    B. [Spiceworks Help Desk](harvesthaven.on.spiceworks.com)
    
-### 8. Revision History:
+## 8. Revision History:
    
-   Jason 05/16/2023 Version 1.0: Initial SOP created.
+   Jason 05/16/2023 Version 1.0: Initial SOP created
   
-   Jason, David, Gerald 05/17/2023 Version 1.1: Revisions.
+   Jason, David, Gerald 05/17/2023 Version 1.1: Revisions
    
-### 9. Approval:
+   Jason, David, Gerald, Wayne 5/18/2023 Version 1.2: Revisions
+   
+## 9. Approval:
  
-   Jason Jung, David Prutch, Gerald Reitmeyer 05/17/2023
+   Jason Jung, David Prutch, Gerald Reitmeyer, Wayne Brandon

@@ -1,4 +1,7 @@
 # Documentation
+
+A collection of Standard Operating Procedure for doing tasks such as Disposing of data, Administrating and supporting Windows, and more. These SOPs go into detail on Safety concerns, procedure, and responsibilities
+
 [Backup and Restoration SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Backups%20and%20Restoration.md)
 
 [Cloud Service Support SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Cloud%20Service%20Support%20SOP.md)

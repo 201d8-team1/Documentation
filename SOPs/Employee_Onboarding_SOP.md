@@ -1,14 +1,14 @@
-## Employee Onboarding Standard Operating Procedure (SOP)
+# Employee Onboarding Standard Operating Procedure (SOP)
 
-Version 1.2
+Version 1.3
 
-## Effective Date: 5/17/2023
+Effective Date: 5/17/2023
 
-### 1. Purpose:
+## 1. Purpose:
 
    A. The purpose of this SOP is to outline the necessary guidelines for setting up a new client Windows 10 machine with an email account, Microsoft One Drive acount and automatic backup script file to provide an efficent onboarding process.
 
-### 2. Responsibilities:
+## 2. Responsibilities:
 
    A. The MSP is responsible for installing the Windows 10 OS, configuring email acounts, connecting Microsoft One Drive and implementing automatic file backups.
    
@@ -16,7 +16,7 @@ Version 1.2
    
    C. MSP will provide new employee with account access information.
 
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    A. User profile naming convention: firstinitial.lastname
    
@@ -30,7 +30,7 @@ Version 1.2
       
       Department
 
-### 4. Procedure:
+## 4. Procedure:
 
    A. Computer Setup
 
@@ -100,7 +100,7 @@ Version 1.2
       
       d. Bluewave Tech Solutions support contact information.
 
-### 5. Troubleshooting and Problem Solving:
+## 5. Troubleshooting and Problem Solving:
 
    A. backup.bat file does not backup to one drive.
 
@@ -108,14 +108,16 @@ Version 1.2
 
       a. This includes the copy from path, copy to path and log file path.
 
-### 6. Revision History:
+## 6. Revision History:
 
    David 05/16/2023 Version 1.0: Initial SOP Created 
    
    David, Jason, Gerald 05/17/2023 Version 1.1: Revisions
    
    David 05/17/2023 Version 1.2: Provide credentials to new hire.
+   
+   David, Jason, Wayne, Gerald 5/18/2023 Version 1.3: Revision.
 
-### 7. Approval:
+## 7. Approval:
 
-   David Prutch, Gerald Reitmeyer, Jason Jung
+   David Prutch, Gerald Reitmeyer, Jason Jung, Wayne Brandon

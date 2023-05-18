@@ -1,14 +1,14 @@
-Standard Operating Procedure (SOP)
+## Standard Operating Procedure (SOP)
 
 Version 1.0
 
-Effective Date:05/17/2023
+## Effective Date:05/17/2023
 
-1. Purpose:
+### 1. Purpose:
 
    The purpose of this SOP is to provide the guidelines for client software and hardware purchaseing.
 
-2. Responsibilities:
+### 2. Responsibilities:
 
    Harvest Haven  is responsible for identifying their future needs regarding software and hardware.
    
@@ -18,15 +18,15 @@ Effective Date:05/17/2023
 
    MSP is rsponsible for aquisition and deployment of new hardware or software.
 
-3. Definitions and Abbreviations:
+### 3. Definitions and Abbreviations:
 
-   Client: Harvest Haven Grocers.
+   A. Client: Harvest Haven Grocers.
 
-   MSP: Bluewave Tech Solutions.
+   B. MSP: Bluewave Tech Solutions.
 
-   PO: Purchas Order.
+   C. PO: Purchas Order.
 
-4. Procedure:
+### 4. Procedure:
 
 A. Receive client request for new hardware or software solution. 
 
@@ -50,18 +50,18 @@ F. Install as needed by specific requirements of item purchased.
 
       a. If situation demands deploy tech to site to install hardware manually.
 
-5. Safety Considerations:
+### 5. Safety Considerations:
 
    A. Confirm system components meet minum requirements to support new hardware or software.
 
-6. Troubleshooting and Problem Solving:
+### 6. Troubleshooting and Problem Solving:
 
    A. As this is a case by case basis follow organization [Troubleshooting Methodology](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Troubleshooting%20Methodology%20SOP.md)
 
-7. Revision History:
+### 7. Revision History:
 
    David 05/17/2023 Version 1.0: Initial SOP Created 
-   
-8. Approval:
+
+### 8. Approval:
 
    David Prutch

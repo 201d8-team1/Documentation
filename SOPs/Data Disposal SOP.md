@@ -1,20 +1,20 @@
-## Data Disposal Standard Operating Procedure (SOP)
+# Data Disposal Standard Operating Procedure (SOP)
 
-Version 1.1
+Version 1.2
 
-## Effective Date: 05/17/2023
+Effective Date: 05/17/2023
 
-### 1. Purpose:
+## 1. Purpose:
 
    A. This SOP provides instructions on proper data disposal procedures. 
 
-### 2. Responsibilities:
+## 2. Responsibilities:
    
    A. Properly sanitize end-of-life hard drives received from clients.
    
    B. Ensure sensitive data is properly sanitized.
 
-### 3. Definitions and Abbreviations:
+## 3. Definitions and Abbreviations:
 
    A. Data: Files on the hard drive.
 
@@ -22,7 +22,7 @@ Version 1.1
    
    C. DoD 5220.22-M: Method for data erasure used by government agencies and organizations worldwide for performing drive erasure.
    
-### 4. Procedure:
+## 4. Procedure:
 
    A. A dedicated DBAN USB device should be created by the technician. This is to mitigate the risk of downloading a malicious DBAN program onto the USB device.
 
@@ -34,17 +34,17 @@ Version 1.1
 
    E. Verify the hard drive has been sanitized.
    
-### 5. Safety Considerations:
+## 5. Safety Considerations:
 
    A. Only use the DBAN program from verified sources and devices.
    
    B. Verify correct hard drive selection before performing sanitization.
 
-### 6. Troubleshooting and Problem Solving:
+## 6. Troubleshooting and Problem Solving:
 
    A. In the case of an error, refer to DBAN troubleshooting documentation online. (References: A)
    
-### 7. References:
+## 7. References:
 
    A. [DBAN Troubleshooting Docuemnts](https://dban.org/help-center/#:~:text=The%20most%20frequent%20reason%20for,when%20you%20ask%20for%20help)
 
@@ -52,12 +52,14 @@ Version 1.1
    
    C. [DBAN Download](https://dban.org/)
    
-### 8. Revision History:
+## 8. Revision History:
 
-   Jason 05/17/2023 1.0: Initial Version.
+   Jason 5/17/2023 Version 1.0: Initial Version.
    
-   Jason, Gerald, David 05/17/2023 1.1: Revisions.
+   Jason, Gerald, David 5/17/2023 Version 1.1: Revisions.
    
-### 9. Approval:
+   Jason, Gerald, David, Wayne 5/18/2023 Version 1.2: Revision
+   
+## 9. Approval:
 
-   Jason Jung, Gerald Reitmeyer, David Prutch
+   Jason Jung, Gerald Reitmeyer, David Prutch, Wayne Brandon

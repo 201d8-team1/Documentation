@@ -12,7 +12,7 @@ This documentation outlines Bluewave Tech Solutions Standard Operating Procedure
 
 [Employee Onboarding SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Employee_Onboarding_SOP.md)
 
-[Enhance Network Usability SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Enhance%20the%20network%E2%80%99s%20usability%20and%20security%20SOP.md)
+[Network Usability and Security SOP](https://github.com/201d8-team1/Documentation/blob/main/Network%20Usability%20and%20Security%20SOP.md)
 
 [Remote and Offsite Support SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Remote%20and%20Offsite%20Support%20SOP.md)
 

@@ -10,6 +10,10 @@ A collection of Standard Operating Procedure for doing tasks such as Disposing o
 
 [Employee Onboarding SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Employee_Onboarding_SOP.md)
 
+[Enhance Network Usability SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Enhance%20the%20network%E2%80%99s%20usability%20and%20security%20SOP.md)
+
+[Remote and Offsite Support SOP] (https://github.com/201d8-team1/Documentation/blob/main/SOPs/Remote%20and%20Offsite%20Support%20SOP.md)
+
 [Support Engagement SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Support%20Engagement%20SOP.md)
 
 [Technology Purchase Requests SOP](https://github.com/201d8-team1/Documentation/blob/main/SOPs/Technology%20Purchase%20Requests%20SOP.md)

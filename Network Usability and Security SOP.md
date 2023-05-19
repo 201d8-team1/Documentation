@@ -22,7 +22,7 @@ A. MSP - Managed Service Provider.
    
 A. Setup and configure pfSense.
    
-      1. Refer to pfSense getting started (References: B).
+   1. Refer to pfSense getting started (References: B).
    
 B. Establish Secure Network Authentication Methods.
   
